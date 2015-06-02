@@ -21,10 +21,9 @@
   "dependencies": {
     "async": "^1.0.0",
     "chalk": "^1.0.0",
-    "glob": "^5.0.10",
     "lodash": "^3.9.3",
-    "mkdirs": "0.0.2",
     "snack-cli": "^1.1.0",
+    "snack-file": "^1.0.0",
     "snack-string": "^1.2.1"
   },
   "devDependencies": {
