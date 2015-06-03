@@ -33,12 +33,6 @@ module.exports = function(grunt) {
         }
     });
 
-    /*
-    grunt.loadNpmTasks('grunt-trimtrailingspaces');
-    grunt.loadNpmTasks('grunt-jsbeautifier');
-    grunt.loadNpmTasks('grunt-contrib-jshint');
-    grunt.loadNpmTasks('grunt-jscs');
-    */
     require('load-grunt-tasks')(grunt);
 
     grunt.registerTask('sa-format', ['trimtrailingspaces', 'jsbeautifier']);

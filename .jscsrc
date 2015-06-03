@@ -67,9 +67,6 @@
   "disallowSpacesInsideParentheses": true,
   "disallowEmptyBlocks": true,
 
-  "additionalRules": [
-    "node_modules/jscs-jsdoc/lib/rules/*.js"
-  ],
   "validateJSDoc": {
     "checkParamNames": true,
     "requireParamTypes": true

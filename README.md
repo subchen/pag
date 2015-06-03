@@ -24,7 +24,7 @@ pag --list-templates
 # create a node.js module
 mkdir test
 cd test
-pag --template node-module
+pag node-module
 ```
 
 # License

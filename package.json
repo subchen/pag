@@ -44,7 +44,7 @@
   },
   "main": "index.js",
   "bin": {
-    "pag": "./lib/app.js"
+    "pag": "./bin/pag"
   },
   "scripts": {
     "test": "mocha",
