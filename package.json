@@ -1,6 +1,6 @@
 {
   "name": "pag",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A project archetypes generator",
   "author": {
     "name": "Guoqiang Chen",
@@ -17,7 +17,11 @@
     "url": "https://github.com/subchen/pag/issues"
   },
   "homepage": "http://subchen.github.io/pag",
-  "keywords": [],
+  "keywords": [
+    "pag",
+    "archetype"
+    "generator"
+  ],
   "dependencies": {
     "async": "^1.0.0",
     "chalk": "^1.0.0",

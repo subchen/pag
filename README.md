@@ -1,5 +1,4 @@
 [![Build Status](https://travis-ci.org/subchen/pag.svg?branch=master)](https://travis-ci.org/subchen/pag)
-[![Code Coverage](https://img.shields.io/coveralls/subchen/pag/master.svg)](https://coveralls.io/r/subchen/pag)
 [![NPM Repo](https://img.shields.io/npm/v/pag.svg)](https://www.npmjs.com/package/pag)
 [![License](http://img.shields.io/badge/License-Apache_2-red.svg?style=flat)](http://www.apache.org/licenses/LICENSE-2.0)
 
