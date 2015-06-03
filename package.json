@@ -19,7 +19,7 @@
   "homepage": "http://subchen.github.io/pag",
   "keywords": [
     "pag",
-    "archetype"
+    "archetype",
     "generator"
   ],
   "dependencies": {
